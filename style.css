@@ -8,8 +8,8 @@ h1{
 }
 .w{
     background-image: url("images/crash.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
@@ -18,8 +18,8 @@ h1{
 }
 .a{
     background-image: url("images/kick.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
@@ -29,8 +29,8 @@ h1{
 }
 .s{
     background-image: url("images/snare.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
@@ -39,8 +39,8 @@ h1{
 }
 .d{
     background-image: url("images/tom1.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
@@ -49,8 +49,8 @@ h1{
 }
 .j{
     background-image: url("images/tom2.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
@@ -59,8 +59,8 @@ h1{
 }
 .k{
     background-image: url("images/tom3.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
@@ -69,8 +69,8 @@ h1{
 }
 .l{
     background-image: url("images/tom4.png");
-    height: 3%;
-    width: 10%;
+    height: 5%;
+    width: 15%;
     font-size: 3rem;
     font-weight: 600;
     text-align: center;
